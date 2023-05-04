@@ -28,9 +28,9 @@ const main = () => {
     )
     console.log()
     console.log('Options:')
-    console.log('--encrypt <string> - String you want to encrypt using Solitare Chiper')
-    console.log('--decrypt <string> - String you want to decrypt using Solitare Chiper')
-    console.log('--generateKey - Generates a new key for Solitare Chiper')
+    console.log('--encrypt <string> - String you want to encrypt using Solitare Cipher')
+    console.log('--decrypt <string> - String you want to decrypt using Solitare Cipher')
+    console.log('--generateKey - Generates a new key for Solitare Cipher')
     return
   }
 
