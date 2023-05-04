@@ -123,3 +123,5 @@ const main = () => {
 }
 
 main()
+
+module.exports = { KEY_FULL_PATH }
